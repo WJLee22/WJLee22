@@ -1,5 +1,7 @@
 ## Hi there 👋
+![WJLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=WJLee22&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WJLee22&layout=compact&theme=tokyonight)<br/>
 <!--
 **WJLee22/WJLee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
