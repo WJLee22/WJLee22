@@ -1,8 +1,11 @@
+<div align="center">
 <!--### Hi there 👋-->
 
 <br>
 
 ![WJLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=WJLee22\&rank_icon=github&theme=swift)
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WJLee22&hide_progress=true&layout=compact&theme=swift)<br/>
 
@@ -26,3 +29,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
