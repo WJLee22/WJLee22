@@ -5,14 +5,13 @@
 
 ![WJLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=WJLee22\&rank_icon=github&theme=swift)
 
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WJLee22&hide_progress=true&layout=compact&theme=swift)<br/>
 
 <br>
 
 <a href="https://basecoding.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-FF8C00?style=plastic&logo=Tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tistory-FF8C00?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
 
 <!--
