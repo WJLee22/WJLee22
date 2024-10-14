@@ -3,9 +3,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WJLee22&hide_progress=true&layout=compact&theme=swift)<br/>
 
-  <a href="https://basecoding.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-FFA500?style=for-the-badge&logo=Tistory&logoColor=white"/>
-  </a>
+<br>
+
+<a href="https://basecoding.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-FF8C00?style=plastic&logo=Tistory&logoColor=white"/>
+</a>
+
 <!--
 **WJLee22/WJLee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
