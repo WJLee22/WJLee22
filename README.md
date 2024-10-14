@@ -1,7 +1,6 @@
 <!--<div align="center">-->
 <!--### Hi there 👋-->
 
-<br>
 
 ![WJLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=WJLee22\&rank_icon=github&theme=swift)
 
