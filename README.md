@@ -24,6 +24,9 @@
 
 ## 🎓 Achievements & Activities
 
+<details>
+  <summary>🔽</summary>
+  
 - **[2020-2학기]** 한성대학교 컴퓨터공학부 우수한성역량장학 선정
 - **[2021-1학기]** 한성대학교 컴퓨터공학부 우수한성역량장학 선정
 - **[2024-1학기]** 한성대학교 컴퓨터공학부 최우수한성인재장학 선정
@@ -31,6 +34,7 @@
 - **[2024-2학기]** 한성대학교 객체지향언어(JAVA) 프로그래밍 튜터활동 진행
 - **[2025-1학기]** 한성대학교 컴퓨터공학부 우수한성역량장학 선정  
 
+</details>
 
 <!--
 **WJLee22/WJLee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
