@@ -33,12 +33,18 @@
 - **[2024-2학기]** 한성대학교 컴퓨터공학부 최우수한성인재장학 선정
 - **[2024-2학기]** 한성대학교 객체지향언어(JAVA) 프로그래밍 전공 튜터(Tutor)
 - **[2025-1학기]** 한성대학교 컴퓨터공학부 우수한성역량장학 선정
-- **[2025.02.17 ~ 02.20]** 2025 컴퓨터공학부 전공설명회 - 모바일SW & 빅데이터트랙 전공설명 근로
 - **[2025-1학기]** 2025-1학기 한성대학교 컴퓨터공학부 교과 교육조교(TA) 임용   
-- **[2025-1학기]** 2025 컴퓨터공학부 전공트랙 진로 설명회 - 웹공학트랙 근로  
 
 </details>
 
+<br>
+
+## 💻 Practical Experience
+
+**[2025-09~] All4land | Software Development**
+
+
+<br>
 <!--
 **WJLee22/WJLee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
