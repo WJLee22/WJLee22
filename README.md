@@ -3,8 +3,7 @@
 
 <div align="center">
   
-![WJLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=WJLee22&theme=swift)  
-<!--![WJLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=WJLee22\&rank_icon=github&theme=swift)-->
+![WJLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=WJLee22&theme=swift\&rank_icon=github)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WJLee22&hide_progress=true&layout=compact&theme=swift&langs_count=8)<br/>
 
