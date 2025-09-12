@@ -22,7 +22,7 @@
 
 <br>  
 
-## 🎓 Achievements & Activities
+## 🎓 University Achievements & Activities
 
 <details>
   <summary>🔽</summary>
@@ -41,10 +41,17 @@
 
 ## 💻 Practical Experience
 
-**[2025-09~] All4land | Software Development**
+**[2025-09~] `All4land`** | Software Development
 
 
 <br>
+
+## 🏅 Licenses & Certifications
+
+**[2025-09-12] `정보처리기사`** | 2025년 정기 기사 2회 (필기/실기) 합격
+
+<br>
+
 <!--
 **WJLee22/WJLee22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
