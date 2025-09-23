@@ -57,7 +57,7 @@
 
 ## 💻 Practical Experience
 
-**[2025-09~] `All4land`** | Software Development
+**[2025-09~] `ALLFORLAND Inc.`** | Software Development
 
 
 <br>
